@@ -12,4 +12,4 @@ Backend RESTful API is locked behind basic authentication and also has expected 
 #### Username = admin
 #### Password = password
 
-This app was created as a final project for CPAN 228 at Humber College, functionality is fully implemented by styling certainly needs some love
+This app was created as a final project for CPAN 228 at Humber College, functionality is fully implemented but styling certainly needs some love
